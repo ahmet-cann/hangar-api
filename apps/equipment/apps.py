@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class EquipmentConfig(AppConfig):
-    name = 'apps.accounts'
+    name = 'apps.equipment'
